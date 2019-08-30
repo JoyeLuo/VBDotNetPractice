@@ -1,0 +1,14 @@
+D:\Projects\Yuyu\Test1\Test1\bin\Debug\StudentsTest.accdb
+D:\Projects\Yuyu\Test1\Test1\bin\Debug\Test1.exe.config
+D:\Projects\Yuyu\Test1\Test1\bin\Debug\Test1.exe
+D:\Projects\Yuyu\Test1\Test1\bin\Debug\Test1.pdb
+D:\Projects\Yuyu\Test1\Test1\bin\Debug\Test1.xml
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.vbprojAssemblyReference.cache
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.Form1.resources
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.Resources.resources
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.cache
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.vbproj.CoreCompileInputs.cache
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.exe
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.xml
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.pdb
+D:\Projects\Yuyu\Test1\Test1\obj\Debug\Test1.Form2.resources
